@@ -117,8 +117,9 @@ header {
 }
 .frase-efeito h3 {
   color: white;
-  padding: 3px;
+  padding: 2px;
   margin: 0 620px;
+  margin: top px;
 }
 
 .frase-efeito h3:hover {
@@ -140,6 +141,10 @@ header {
   color: white;
   font-size: 30px;
   text-decoration: none;
+}
+
+.mid-text img {
+  padding: 18px;
 }
 .mid-text a:hover {
   color: aquamarine;
