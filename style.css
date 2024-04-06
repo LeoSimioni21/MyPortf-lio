@@ -80,7 +80,9 @@ header {
 
 .diferencial-single i {
   color: deepskyblue;
-  font-size: 30px;
+  font-size: 40px;
+  margin-top: 10px;
+  margin: 3px;
 }
 .diferencial-single h3 {
   color: white;
